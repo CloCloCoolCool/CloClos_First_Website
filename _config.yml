@@ -28,7 +28,7 @@ twitter_username:
 github_username:  CloCloCoolCool
 
 # Build settings
-theme: minima
+theme: midnight
 plugins:
   - jekyll-feed
 
